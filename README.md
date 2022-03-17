@@ -14,3 +14,5 @@ Ejercicio 4
 [ ] En la rama version1 añade el nombre de dos directores de cine más al archivo directores.txt y haz un commit de los cambios.
 
 [ ] Envía de nuevo los cambios al repositorio remoto.
+
+CAPTURAS: https://drive.google.com/drive/folders/1I-GxbS_COnwplluWygeFqflXs8KFuc1u?usp=sharing
